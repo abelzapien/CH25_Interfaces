@@ -1,4 +1,6 @@
-public class Triangulo {
+
+
+public class Triangulo implements Figurona {
 	private String name;
 	private double base;
 	private double altura;
